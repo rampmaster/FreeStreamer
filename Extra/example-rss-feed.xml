@@ -3,6 +3,10 @@
   <channel>
     <title>Playlist Feed</title>
     <item>
+        <title>Test</title>
+        <link>http://radio.radiofranja.cl:2199/tunein/radiofranja.pls</link>
+    </item>
+    <item>
        <title>soma.fm GrooveSalad MP3 56</title>
        <link>http://somafm.com/groovesalad56.pls</link>
     </item>
